@@ -6,10 +6,10 @@
 ### <div align="center">I’m Jianing，an undergraduate student majoring in AI in Xi'an Jiaotong University.</div>  
   
 
-- 🔭 I’m currently working on [Re-ID task](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Mamba and Multimodel
   
 
-- 🌱 I’m currently learning Reinforcement learning and GAN  
+
   
 
 <br/>  
